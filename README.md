@@ -6,7 +6,7 @@ I'm Juhwa Hwang!
 <br />
 
 
-![juhwa2](https://user-images.githubusercontent.com/76397046/129883518-5d4f109d-f66b-410a-a7d3-35acc27db78a.jpg)
+<img src="https://user-images.githubusercontent.com/76397046/129883518-5d4f109d-f66b-410a-a7d3-35acc27db78a.jpg" style="width=200px">
 
 <br />
 <br />
