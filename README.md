@@ -6,14 +6,13 @@ I'm Juhwa Hwang!
 <br />
 
 
-<img src="https://user-images.githubusercontent.com/76397046/129883518-5d4f109d-f66b-410a-a7d3-35acc27db78a.jpg" height="300px">
+<img src="https://vignette.wikia.nocookie.net/pokemon/images/d/d0/%EA%BC%AC%EB%A7%88%EB%8F%8C_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest?cb=20170405014701&path-prefix=ko" height="500px">
 
-<br />
 <br />
 
 
 😄   I'm currently studying to be an good front-end developer.  
-💚   I'm interested in Making an application with PHP + React  
+💚   I'm interested in Making an application with PHP and React  
 📫   How to contact me : kenna.hwa@gmail.com  
 💪   Languages and Tools : HTML5, CSS3, JavaScript, React,  
 　　　　　　　　　 　　  PHP, MySQL, MariaDB, Git,  
